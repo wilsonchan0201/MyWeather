@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="SplashStyle" parent="AppThemes">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="AppThemes" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:actionOverflowButtonStyle">@style/actionOverflowStyle</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="actionOverflowStyle">
+        <item name="android:src">@mipmap/info</item>
+        <item name="android:paddingEnd">20dp</item>
+    </style>
+
+    <style name="IconTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/IconTextAppearance</item>
+    </style>
+
+    <style name="IconTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+    </style>
+
+</resources>

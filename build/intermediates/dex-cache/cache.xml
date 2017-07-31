@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e97977f33034262b79f0a1c0f3d7ac315597f049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/070319d85dbcc27269b13a884c4f7822fc5ec2ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9604931101570140292d0310a2afc36efcb0ab5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="075713bee4b50bd61b4e8d471dcf1c78673e92a5">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fbe801fba9f5a99c1af68797ea7bef4756c85ef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/c01cf3de84d09bbe5b644e0c80894d3232c97fe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c00b595519c3157a117666868acae00aa4a6c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/Dev/Tools/devKits/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a0e449c55797cd467efa488ac525cd7374545243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/0ddc18fb85f576ae2153db17a65a9bcd71e3efba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19781939e4dd425249ab52ac5707de939f366b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/3b836ec84af3c879fc0f011b802faa01c7c67ab2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39b6ec9837c2ad93cf6e4d145965a67e5a42766e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/5e7f6495b98742a83c4a4b4c49ccd479dd1db150/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3f4a3306595c9790ab1b16e571e7a1450e2fbbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/4af949664a1e1b8164238ac4899433db97f23f40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78c9fdd52afee642a1b4468217cf673e9020a661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/f1ae17cb60d623923747b66ab5096b7e39c44620/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_630a08c0619967194a204e7d636f99b0d6d11e54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/bc9acfcca2da07fb106ae1d0374e4ddd81ba4f52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41f1119cb08aec934e6ab8e792bc177ffb8453bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/7276d23ad6956ff1fb06b3d259ccaab267e66ea9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7792dfd9653de1096595eaaadfe33e0968be2dba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/500143773e17b01bc4ed236184d65001bdb841fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d623614d1455cc62318a0972e879ab7b2493b0eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/f43f5774f9fd7440a6ba9d7674c16b2964e290a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4029650593b15dbd7d8e453ac389153914582d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/willis/.android/build-cache/04d74dfaa3fc6e88fc98912cea025e0ee4a4697a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/willis/Desktop/VolleyTest/MyWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9884331c1720ab63b4bff8812ec3b438fb292566/classes.dex" />
+    </item>
+
+</items>
